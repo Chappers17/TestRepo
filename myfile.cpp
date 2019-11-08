@@ -6,6 +6,6 @@
      if (argc > 1) {
      std::cout << "Hello World! " << argv[1]  <<  std::endl;
      }
-     std::cout << "I am a C++ Program" << std::endl;
+     std::cout << "I am back from GitHub!" << std::endl;
      return 0;
     }
